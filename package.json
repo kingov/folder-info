@@ -1,0 +1,23 @@
+{
+  "name": "folder-info",
+  "version": "0.0.3",
+  "description": "Generate folder directory info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingov/folder-info.git"
+  },
+  "keywords": [
+    "folder",
+    "file"
+  ],
+  "author": "wongzheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingov/folder-info/issues"
+  },
+  "homepage": "https://github.com/kingov/folder-info#readme"
+}
